@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Menu Lidt</name>
+   <tag></tag>
+   <elementGuidId>e4299b77-f1ae-4aa2-9bd0-b8358306e97d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#dMenuPadding</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dMenuPadding']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>764b555d-2792-4d33-a349-9cd69561cfcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>dMenuPadding</value>
+      <webElementGuid>46dda0f1-0022-4ee0-ab34-c9efccf333f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dMenuPadding&quot;)</value>
+      <webElementGuid>b407ec26-24dd-45f5-9bad-9075307d5547</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='dMenuPadding']</value>
+      <webElementGuid>fb927ef4-5fb1-4449-9841-d15813fa047a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='toggleLink']/div</value>
+      <webElementGuid>81ed0d05-681b-421e-b056-66b3b6478275</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome, Anita Gusti, KEDOYA, Credit Admin'])[1]/following::div[3]</value>
+      <webElementGuid>095c3bb2-584d-4248-86a2-d6c1ed7dbae9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tuesday, 06 February 2024'])[1]/following::div[3]</value>
+      <webElementGuid>8aa9fbdb-8f4c-4947-b350-9fcda2aaab38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright © AdIns 2011. All Right Reserved'])[1]/preceding::div[2]</value>
+      <webElementGuid>0d808367-bd36-44b1-b83c-478899425e6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notification'])[1]/preceding::div[3]</value>
+      <webElementGuid>6a919c9b-94c0-4477-9605-8d8b671e5205</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div</value>
+      <webElementGuid>41f162d8-4066-49cd-83a3-5a4c2489dd62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'dMenuPadding']</value>
+      <webElementGuid>2aa78fab-d27a-4e67-b001-907ed4825352</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

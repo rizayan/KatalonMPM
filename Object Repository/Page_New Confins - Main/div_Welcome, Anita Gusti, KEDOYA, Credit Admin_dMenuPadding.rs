@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Welcome, Anita Gusti, KEDOYA, Credit Admin_dMenuPadding</name>
+   <tag></tag>
+   <elementGuidId>368b8011-0798-4c01-8819-bb225ba65d05</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#dMenuPadding</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dMenuPadding']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>95aa74a0-3299-4d4a-9875-21b7f4a0ee64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>dMenuPadding</value>
+      <webElementGuid>9fc25e3d-fedc-4711-bf54-a360b88d3b89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dMenuPadding&quot;)</value>
+      <webElementGuid>7942c701-e24d-47db-baa1-99e0c6f3f2e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_New Confins - Main/iframe_Welcome, Nova Dwihartanto, MALANG, C_9ce5f4</value>
+      <webElementGuid>b9a61746-db42-42c4-8c6d-eab6c7240045</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='dMenuPadding']</value>
+      <webElementGuid>bbb10937-e7d7-4560-b94f-126b95284f4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='toggleLink']/div</value>
+      <webElementGuid>8fb61896-eadf-4e2b-8f23-faf17c52381f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome, Anita Gusti, KEDOYA, Credit Admin'])[1]/following::div[3]</value>
+      <webElementGuid>8d1b9989-fc12-41a7-9ea4-3549553ff877</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tuesday, 06 February 2024'])[1]/following::div[3]</value>
+      <webElementGuid>d39362bd-cc2c-423a-a91e-f8b5342bcc7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright © AdIns 2011. All Right Reserved'])[1]/preceding::div[2]</value>
+      <webElementGuid>810c807d-0a45-47a9-bd54-2f31f90af901</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notification'])[1]/preceding::div[3]</value>
+      <webElementGuid>5f17cd49-0f91-45eb-b7b7-aca6f7936054</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div</value>
+      <webElementGuid>41b5df75-3150-47f6-ae4f-80611af53676</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'dMenuPadding']</value>
+      <webElementGuid>8aa86789-1f0e-4c60-89ac-28af0d1dca72</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
