@@ -29,7 +29,7 @@ WebUI.setText(findTestObject('Login_Spy/Login_Spy/input_password'), GlobalVariab
 
 WebUI.click(findTestObject('Login_Spy/Login_Spy/button_login'))
 
-WebUI.delay(2)
+WebUI.delay(1)
 
 WebUI.takeScreenshot()
 
